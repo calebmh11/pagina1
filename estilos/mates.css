@@ -1,0 +1,13 @@
+.clase{
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.clase, h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.clase img{
+font-size:3rem ;
+}
+.clase, h2{
+    color: blueviolet;
+}
